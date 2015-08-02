@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "_default": {
+      "link": "monetaapp"
+    },
+    "monetaapp": {
+      "applicationId": "scjtJmz2TMqQXTdqpHJz1UN84nxNrIco9WpncX3p",
+      "masterKey": "5OQqmzf2lglXQ2R9ljyiqVQMBmtCdutgooEpuLAU"
+    }
+  }
+}
